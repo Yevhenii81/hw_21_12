@@ -281,6 +281,7 @@ int main()
     cout << "Home Work: ";
     student.AddHW(10);
     student.AddHW(12);
+    student.AddHW(12);
     student.PrintHW();
     cout << "\n\n";
 
